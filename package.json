@@ -1,0 +1,22 @@
+{
+  "name": "playwright-framework-typescript",
+  "version": "1.0.0",
+  "description": "Playwright POM framework with typescript",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavelahmedap/playwright-framework-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavelahmedap/playwright-framework-typescript/issues"
+  },
+  "homepage": "https://github.com/pavelahmedap/playwright-framework-typescript#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^20.9.5"
+  }
+}
