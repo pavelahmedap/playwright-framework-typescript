@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "declarationMap": true,
+    "esModuleInterop": true,
+    "noduleResolution": "node",
+    "outDir": "dist",
+    "skiplibCheck": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "ES2021",
+    "type": "module"
+  }
+}
